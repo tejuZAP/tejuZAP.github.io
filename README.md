@@ -3,10 +3,11 @@ This project provides template code for Hello World for the Web and is based on
 [W3Schools HTML Tutorial](https://www.w3schools.com/html/). 
 
 ## Author
-Eric Pogue [email:epogue@lewisu.edu](mailto:epogue@lewisu.edu)
+Teju Kolawole
 
 ## Credits
 [W3Schools HTML Tutorial](https://www.w3schools.com/html/) for the HTML template code.
+Eric Pogue email:epogue@lewisu.edu
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
